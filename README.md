@@ -10,6 +10,8 @@ One think to edit, there is an chatbox in footer container, so its can't fecth t
 
 There is an quite difference command to run. Because of using the Vite # in terminal run - npm run dev
 
-Image : ![Screenshot 2024-02-09 172007](https://github.com/peddapallisaikiran/weatherDash/assets/121514636/ff008a5b-3396-41c3-ab0e-d003a4928bdc)
+ After release of V1.1 :
+ ![image](https://github.com/peddapallisaikiran/weatherDash/assets/121514636/6afd1484-a53b-46ee-ab1a-595144012363)
+
 
 Clickon link : http://localhost:5173/
