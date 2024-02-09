@@ -90,7 +90,7 @@ function Temperatures({ setCity, stats }) {
         Today &#183; {stats.time} | {stats.location}
       </div>
           {/* There is an Pending in live chart to fetch the chatbox to an driveModule. */}
-      <div class="p-6 max-w-sm mx-auto bg-slate-600 rounded-xl shadow-lg flex items-center space-x-4 mt-10">
+      {/* <div class="p-6 max-w-sm mx-auto bg-slate-600 rounded-xl shadow-lg flex items-center space-x-4 mt-10">
         <div class="shrink-0">
           <img class="h-12 w-12" src="https://cdn.pixabay.com/photo/2017/06/04/19/20/weather-2371967_960_720.png" alt="ChitChat Logo"/>
         </div>
@@ -99,7 +99,7 @@ function Temperatures({ setCity, stats }) {
           <input className="bg-slate-600 outline-none" type="text" placeholder="Typehere"/>
         </div>
       </div>
-      <p className="flex justify-center items-center pt-20 text-opacity-5">Copyright@2024</p>
+      <p className="flex justify-center items-center pt-20 text-opacity-5">Copyright@2024</p> */}
     </>
     
   );
